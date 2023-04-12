@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "my first blog",
+      "body": "loren  body next two value for this comndition so that ",
+      "author": "Amit",
+      "id": 1
+    },
+    {
+      "title": "New Blog",
+      "body": "its too good",
+      "author": "amit",
+      "id": 3
+    }
+  ]
+}
